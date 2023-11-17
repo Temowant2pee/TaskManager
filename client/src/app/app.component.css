@@ -3,14 +3,23 @@
   height: 100vh;
   background-color: #212529;
   display: flex;
+  box-shadow:
+    -10px 0 10px rgba(33, 37, 41, 0.5),
+    10px 0 10px rgba(33, 37, 41, 0.5);
 }
 
 .tools-container {
-  width: 25%;
+  width: 20%;
   height: 100vh;
+  box-shadow:
+    -10px 0 10px rgba(33, 37, 41, 0.5),
+    10px 0 10px rgba(33, 37, 41, 0.5);
 }
 
 .task-container {
-  width: 75%;
+  width: 80%;
   height: 100vh;
+  box-shadow:
+    -10px 0 10px rgba(33, 37, 41, 0.5),
+    10px 0 10px rgba(33, 37, 41, 0.5);
 }
